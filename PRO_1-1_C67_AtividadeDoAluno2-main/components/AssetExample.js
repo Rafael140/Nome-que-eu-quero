@@ -32,3 +32,5 @@ const styles = StyleSheet.create({
     width: 128,
   }
 });
+
+//mudei isso aq pipipipopopo
